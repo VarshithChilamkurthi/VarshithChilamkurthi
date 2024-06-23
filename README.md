@@ -31,6 +31,12 @@ Experienced iOS Developer | Devops | Software Engineer with a profound knowledge
   <img width="12" />
   <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="40" alt="javascript logo" />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" height="40" alt="nodejs logo" />
+  <img width="12" /> 
+  <img src="https://www.svgrepo.com/show/448266/aws.svg" height="40" alt="aws logo" />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/448274/azure.svg" height="40" alt="azure logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
