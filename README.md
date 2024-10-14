@@ -79,10 +79,10 @@ I've completed the following certifications:
 
 ## Let's Connect!
 
-If you're interested in collaborating or just want to say hi, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/varshithchilamkurthi/). I'm always open to new opportunities and discussions!
+If you're interested in collaborating or just want to say hi, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/varshith-c-83315b329/). I'm always open to new opportunities and discussions!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/varshithchilamkurthi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varshith-chilamkurthi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/varshith-c-83315b329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varshith-chilamkurthi" height="30" width="40" /></a>
 </p>
 <!--
 **VarshithChilamkurthi/VarshithChilamkurthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
